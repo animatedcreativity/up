@@ -15,7 +15,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Up
-  introTitle: "All public services by Animated Creativity."
+  introTitle: "All public services by Animated Creativity"
   introMessage: 
   navbar:
     - title: Status
