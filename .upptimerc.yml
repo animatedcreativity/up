@@ -7,8 +7,8 @@ sites:
     url: https://animatedcreativity.com/
   - name: ThemeSpiration
     url: https://themespiration.com/
-  - name: Test 4
-    url: https://this-website-will-not-work-in-any-case-yes-4.com/
+  - name: Test 5
+    url: https://this-website-will-not-work-in-any-case-yes-5.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
