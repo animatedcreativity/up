@@ -58,17 +58,19 @@
     "url": "https://animatedcreativity.com/",
     "icon": "https://favicons.githubusercontent.com/animatedcreativity.com",
     "slug": "animated-creativity",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.87%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 205,
     "timeDay": 205,
     "timeWeek": 205,
     "timeMonth": 205,
     "timeYear": 205,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   }
 ]
