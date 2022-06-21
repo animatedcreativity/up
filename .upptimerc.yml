@@ -7,8 +7,6 @@ sites:
     url: https://animatedcreativity.com/
   - name: ThemeSpiration
     url: https://themespiration.com/
-  - name: CodePen Profile
-    url: https://codepen.io/animatedcreativity/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
