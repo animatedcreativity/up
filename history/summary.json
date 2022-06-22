@@ -4,35 +4,39 @@
     "url": "https://animatedcreativity.com/",
     "icon": "https://favicons.githubusercontent.com/animatedcreativity.com",
     "slug": "animated-creativity",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 242,
     "timeDay": 279,
     "timeWeek": 242,
     "timeMonth": 242,
     "timeYear": 242,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-22": 0
+    }
   },
   {
     "name": "ThemeSpiration",
     "url": "https://themespiration.com/",
     "icon": "https://favicons.githubusercontent.com/themespiration.com",
     "slug": "theme-spiration",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 208,
-    "timeDay": 223,
-    "timeWeek": 208,
-    "timeMonth": 208,
-    "timeYear": 208,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 207,
+    "timeDay": 216,
+    "timeWeek": 207,
+    "timeMonth": 207,
+    "timeYear": 207,
+    "dailyMinutesDown": {
+      "2022-06-22": 0
+    }
   }
 ]
