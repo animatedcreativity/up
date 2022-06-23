@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/animatedcreativity.com",
     "slug": "animated-creativity",
     "status": "up",
-    "uptime": "99.61%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.61%",
-    "time": 237,
-    "timeDay": 256,
-    "timeWeek": 237,
-    "timeMonth": 237,
-    "timeYear": 237,
-    "dailyMinutesDown": {
-      "2022-06-22": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 234,
+    "timeDay": 260,
+    "timeWeek": 234,
+    "timeMonth": 234,
+    "timeYear": 234,
+    "dailyMinutesDown": {}
   },
   {
     "name": "ThemeSpiration",
@@ -25,18 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/themespiration.com",
     "slug": "theme-spiration",
     "status": "up",
-    "uptime": "99.59%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "99.59%",
-    "time": 203,
-    "timeDay": 203,
-    "timeWeek": 203,
-    "timeMonth": 203,
-    "timeYear": 203,
-    "dailyMinutesDown": {
-      "2022-06-22": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 198,
+    "timeDay": 201,
+    "timeWeek": 198,
+    "timeMonth": 198,
+    "timeYear": 198,
+    "dailyMinutesDown": {}
   }
 ]
