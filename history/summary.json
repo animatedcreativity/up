@@ -22,19 +22,19 @@
     "url": "https://themespiration.com/",
     "icon": "https://favicons.githubusercontent.com/themespiration.com",
     "slug": "theme-spiration",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 199,
-    "timeDay": 138,
-    "timeWeek": 201,
-    "timeMonth": 199,
-    "timeYear": 199,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 196,
+    "timeDay": 133,
+    "timeWeek": 196,
+    "timeMonth": 196,
+    "timeYear": 196,
     "dailyMinutesDown": {
-      "2022-06-29": 0
+      "2022-06-29": 10
     }
   }
 ]
